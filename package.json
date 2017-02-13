@@ -18,6 +18,7 @@
     "async-define": "^3.0.4"
   },
   "keywords": [
+    "rollup-plugin",
     "rollup",
     "amd",
     "plugin"
