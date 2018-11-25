@@ -1,10 +1,9 @@
 {
   "name": "rollup-plugin-async-define",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A rollup plugin for async-define, a simple amd runner",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": "git@github.com:tes/rollup-plugin-async-define.git",
   "author": "Maurizio Lupo <maurizio.lupo@gmail.com>",
   "license": "MIT",
