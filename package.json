@@ -9,7 +9,7 @@
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "async-define": "^3.2.1"
+    "async-define": "^3.2.6"
   },
   "keywords": [
     "rollup-plugin",
