@@ -4,7 +4,7 @@
   "description": "A rollup plugin for async-define, a simple amd runner",
   "main": "index.js",
   "scripts": {},
-  "repository": "git@github.com:tes/rollup-plugin-async-define.git",
+  "repository": "git@github.com:sithmel/rollup-plugin-async-define.git",
   "author": "Maurizio Lupo <maurizio.lupo@gmail.com>",
   "license": "MIT",
   "devDependencies": {},
