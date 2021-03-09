@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-async-define",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A rollup plugin for async-define, a simple amd runner",
   "main": "index.js",
   "scripts": {},
